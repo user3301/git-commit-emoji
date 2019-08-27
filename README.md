@@ -1,5 +1,5 @@
 ## Git Commit Emoji `:octocat:`
-![image](asset\image.png)
+![image](https://github.com/user3301/git-commit-emoji/blob/master/asset/image.png)
 
 My git commit emoji.
 
