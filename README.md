@@ -1,4 +1,4 @@
-## Git Commit Emoji `:octocat:`
+## Git Commit Emoji :octocat:
 ![image](https://github.com/user3301/git-commit-emoji/blob/master/asset/image.png)
 
 My git commit emoji.
